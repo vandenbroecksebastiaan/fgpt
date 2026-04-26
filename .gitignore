@@ -1,0 +1,4 @@
+data/original/*
+data/curated/*
+main2.ipynb
+.DS_Store
